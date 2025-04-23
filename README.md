@@ -42,9 +42,9 @@ I aim to:
 
 # 🗓️ Daily Progress
 
-  Date       | Problems Solved | Level
-  2025-04-23 | ✅ 1           | Eassy
-  ...        | ..             | ...
+  Date       | Problems Solved | Level <br>
+  2025-04-23 | ✅ 1           | Eassy <br>
+  ...        | ..             | ...   <br>
 
 # 🔗 Connect with Me
 
