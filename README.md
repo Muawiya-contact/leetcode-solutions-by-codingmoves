@@ -46,14 +46,12 @@ I aim to:
   2025-04-23 | ✅ 1           | Eassy
   ...        | ..             | ...
 
- # 🔗 Connect with Me
-💼 LinkedIn: [Moavia Amir](linkedin.com/in/contactmuawia)
+# 🔗 Connect with Me
 
-📺 YouTube: [Coding Moves](youtube.com/@Coding_Moves)
-
-💻 GitHub: [Muawiya-contact](https://github.com/Muawiya-contact)
-
-📧 Email: [Moavia](contactmuawia@gmail.com)
+- 💼 [LinkedIn: Moavia Amir](https://linkedin.com/in/contactmuawia)
+- 📺 [YouTube: Coding Moves](https://youtube.com/@Coding_Moves)
+- 💻 [GitHub: Muawiya-contact](https://github.com/Muawiya-contact)
+- 📧 Email: [contactmuawia@gmail.com](mailto:contactmuawia@gmail.com)
 
 # 📌 About Me
 I'm Muawiya, a passionate student pursuing dual degrees in Artificial Intelligence at NFC IET Multan and Mathematics at Virtual University of Pakistan.
