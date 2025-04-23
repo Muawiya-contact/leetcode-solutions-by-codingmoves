@@ -1,7 +1,7 @@
 # 🚀 LeetCode Solutions by Muawiya (@Coding_Moves)
 
 Welcome to my **LeetCode Solutions Repository**!  
-Here I solve and organize coding problems from [LeetCode](https://leetcode.com/) in Python (and more languages coming soon). My goal is to become a world-class programmer and AI engineer — and this repo is one of the steps on that journey 💪
+Here I solve and organize coding problems from [LeetCode](https://leetcode.com/u/Moavia_Amir/) in Python (and more languages coming soon). My goal is to become a world-class programmer and AI engineer — and this repo is one of the steps on that journey 💪
 
 ---
 
@@ -40,7 +40,7 @@ I aim to:
 
 + Use this repo to help others learn too
 
-🗓️ Daily Progress
+# 🗓️ Daily Progress
 
   Date       | Problems Solved | Level
   2025-04-23 | ✅ 1           | Eassy
