@@ -40,8 +40,6 @@ I aim to:
 
 + Use this repo to help others learn too
 
-# too
-
 🗓️ Daily Progress
 
   Date       | Problems Solved | Level
