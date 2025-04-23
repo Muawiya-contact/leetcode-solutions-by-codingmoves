@@ -48,9 +48,9 @@ I aim to:
 
 # 🔗 Connect with Me
 
-- 💼 [LinkedIn: Moavia Amir](https://linkedin.com/in/contactmuawia)
-- 📺 [YouTube: Coding Moves](https://youtube.com/@Coding_Moves)
-- 💻 [GitHub: Muawiya-contact](https://github.com/Muawiya-contact)
+- 💼 LinkedIn: [Moavia Amir](https://linkedin.com/in/contactmuawia)
+- 📺 YouTube: [Coding Moves](https://youtube.com/@Coding_Moves)
+- 💻 GitHub: [Muawiya-contact](https://github.com/Muawiya-contact)
 - 📧 Email: [contactmuawia@gmail.com](mailto:contactmuawia@gmail.com)
 
 # 📌 About Me
