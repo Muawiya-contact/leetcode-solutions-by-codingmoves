@@ -39,8 +39,6 @@ LeetCode-Solutions/
 
 + Code with inline comments
 
-# comments
-
 🧠 My Strategy
 I aim to:
 
