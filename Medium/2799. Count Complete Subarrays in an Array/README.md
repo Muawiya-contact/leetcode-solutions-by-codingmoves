@@ -1,7 +1,7 @@
 # 🚦 LeetCode Problem 2799 - Count Complete Subarrays in an Array
 
-![Coding Moves](https://www.youtube.com/@Coding_Moves)  
-👨‍💻 By: Muawiya – AI & Mathematics Student | Founder of **@Coding_Moves**
+[Coding Moves](https://www.youtube.com/@Coding_Moves)  
+👨‍💻 By: Muawiya – AI & Mathematics Student | Founder of [**@Coding_Moves**](https://www.youtube.com/@Coding_Moves)
 
 ---
 
