@@ -39,7 +39,7 @@ LeetCode-Solutions/
 
 + Code with inline comments
 
-🧠 My Strategy
+# 🧠 My Strategy
 I aim to:
 
 + ✅ Solve daily — not for streaks, but for mastery
@@ -56,9 +56,11 @@ I aim to:
 
 ## 🗓️ Daily Progress Tracker
 
-# Date	    Problems Solved	   Difficulty
-2025-04-23	   ✅ 1	               Easy
-2025-04-224    ✅ 1                Medium
+### | Date       | Problems Solved | Difficulty |
+    |------------|------------------|------------|
+    | 2025-04-23 | ✅ 1              | Easy       |
+    | 2025-04-24 | ✅ 1              | Medium     |
+
 
 ## 🔗 Connect with Me
 
