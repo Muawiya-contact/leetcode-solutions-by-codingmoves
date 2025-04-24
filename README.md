@@ -1,21 +1,21 @@
 # 🚀 LeetCode Solutions by Muawiya (@Coding_Moves)
 
 Welcome to my **LeetCode Solutions Repository**!  
-Here I solve and organize coding problems from [LeetCode](https://leetcode.com/u/Moavia_Amir/) in Python (and more languages coming soon). My goal is to become a world-class programmer and AI engineer — and this repo is one of the steps on that journey 💪
+Here you'll find structured, high-quality solutions to problems from [LeetCode](https://leetcode.com/u/Moavia_Amir/), written primarily in Python (with more languages to come!). This repo is part of my journey to becoming a top-tier programmer and AI engineer 💪
 
 ---
 
 ## 📌 Repository Highlights
 
-- ✅ Daily uploaded solutions
+- ✅ Daily solution uploads
 - 🧠 Categorized by difficulty: Easy, Medium, Hard
-- 🧪 Well-commented and clean code
-- 📊 Consistent LeetCode practice for Data Structures & Algorithms mastery
-- 📚 Learning log and progress tracking
+- 💬 Well-commented, clean, and beginner-friendly code
+- 📊 Consistent LeetCode practice focusing on DSA mastery
+- 📈 Real-world preparation with clarity, patterns, and learning mindset
 
 ---
 
-## 📂 Structure
+## 📂 Folder Structure
 
 ```bash
 LeetCode-Solutions/
@@ -24,55 +24,75 @@ LeetCode-Solutions/
 │   └── 9_Palindrome_Number.py
 ├── Medium/
 │   ├── 3_Longest_Substring.py
-│   └── 5_Longest_Palindromic_Substring.py
+│   └── 2799_Count_Complete_Subarrays.py
 ├── Hard/
 │   └── 10_Regular_Expression_Matching.py
 ├── README.md
 ```
-# 🧠 My Strategy
+### Each file contains:
+
++ Problem link
+
++ Problem statement summary
+
++ Brute-force & optimized approaches
+
++ Code with inline comments
+
+# comments
+
+🧠 My Strategy
 I aim to:
 
-+ Solve a mix of new and popular problems daily
++ ✅ Solve daily — not for streaks, but for mastery
 
-+ Focus on patterns, not just individual questions
++ 🔄 Focus on patterns instead of just memorizing questions
 
-+ Build a habit of clean coding + explanation
++ 📚 Break down problems visually and conceptually
 
-+ Use this repo to help others learn too
++ 🧑‍🏫 Document and share solutions to help others grow
 
-# 🗓️ Daily Progress
++ 🛠️ Build clean, scalable code practices
 
-  Date       | Problems Solved | Level <br>
-  2025-04-23 | ✅ 1           | Eassy <br>
-  ...        | ..             | ...   <br>
+> *“Write code that not only passes but also teaches.”*
 
-# 🔗 Connect with Me
+## 🗓️ Daily Progress Tracker
 
-- 💼 LinkedIn: [Moavia Amir](https://linkedin.com/in/contactmuawia)
-- 📺 YouTube: [Coding Moves](https://youtube.com/@Coding_Moves)
-- 💻 GitHub: [Muawiya-contact](https://github.com/Muawiya-contact)
-- 📧 Email: [contactmuawia@gmail.com](mailto:contactmuawia@gmail.com)
+# Date	    Problems Solved	   Difficulty
+2025-04-23	   ✅ 1	               Easy
+2025-04-224    ✅ 1                Medium
 
-# 📌 About Me
-I'm Muawiya, a passionate student pursuing dual degrees in Artificial Intelligence at NFC IET Multan and Mathematics at Virtual University of Pakistan.
+## 🔗 Connect with Me
 
-Driven by a vision to become one of the world’s leading AI Engineers, I’m documenting my coding grind not just for myself, but to inspire and uplift others on the same path.
+- 💼 [LinkedIn](https://linkedin.com/in/contactmuawia)
+- 📺 [YouTube - Coding Moves](https://youtube.com/@Coding_Moves)
+- 💻 [GitHub](https://github.com/Muawiya-contact)
+- 📧 [Email Me](mailto:contactmuawia@gmail.com)
 
-> *"Consistency beats intensity — every. single. time."*
+---
 
-# ⭐ Support & Contribute
-If you find this repo helpful:
+## 💡 About Me
 
-+ Give it a ⭐ star
+I'm **Muawiya**, a passionate student of **Artificial Intelligence at NFC IET Multan**, and a lifelong learner of programming and mathematics.  
+I'm building this repo as part of my learning journey and sharing it to inspire others who follow in my footsteps.
 
-+ Share it with friends
+> *“Discipline, Code, Pray, Repeat — Success Follows.”*
 
-+ Drop a follow on GitHub & YouTube
+---
 
-+ PRs and ideas are always welcome!
+## ⭐ Support & Contribute
 
-Thanks for visiting 🙌
-~ Muawiya | [Coding Moves](youtube.com/@Coding_Moves)
+If you found this repository helpful:
+
+- ⭐ Star this repo  
+- 🧑‍🤝‍🧑 Share it with fellow learners  
+- 🤝 Pull Requests are welcome  
+- 📢 Give a shoutout to [Coding Moves](https://youtube.com/@Coding_Moves)
+
+Thanks for visiting, and keep coding!  
+~ Muawiya | [@Coding_Moves](https://youtube.com/@Coding_Moves)
 
 
 
+
+  
