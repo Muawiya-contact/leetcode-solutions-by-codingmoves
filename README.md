@@ -68,6 +68,7 @@ I aim to:
 - 💼 [LinkedIn](https://linkedin.com/in/contactmuawia)
 - 📺 [YouTube - Coding Moves](https://youtube.com/@Coding_Moves)
 - 💻 [GitHub](https://github.com/Muawiya-contact)
+- 📊 **Kaggle:** [Moavia Amir](https://www.kaggle.com/Muawiya)
 - 📧 [Email Me](mailto:contactmuawia@gmail.com)
 
 ---
