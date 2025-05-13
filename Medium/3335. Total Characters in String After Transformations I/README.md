@@ -33,12 +33,13 @@ Since the result can be large, return the answer **modulo 10⁹ + 7**.
 ### Example 1
 
 #### Input: 
-    ```
-  s = "abcyy", t = 2
-    ```
+ ``` 
+ s = "abcyy"
+ t = 2
+ ```
 Output: 
-  ```
-    7
+```
+7
 ```
 ## 🚀 Optimized Solution Approach
 
