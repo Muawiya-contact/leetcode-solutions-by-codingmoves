@@ -29,7 +29,7 @@ nums = [0,0,1,1,2,2]
 - `1 <= n <= 300`
 - `nums[i]` is either `0`, `1`, or `2`
 
----
+--- 
 
 ## Approach
 
@@ -42,11 +42,12 @@ This problem can be solved in **O(n)** time and **O(1)** space using the **Dutch
    - If `nums[mid] == 0`: Swap with `nums[low]`, increment both `low` and `mid`.
    - If `nums[mid] == 1`: Just increment `mid`.
    - If `nums[mid] == 2`: Swap with `nums[high]`, decrement `high`.
-
+---
 ### Key Takeaways
   + Do not use `nums.sort()`. Focus on in-place sorting.
   
   + This is a classic example of **in-place** partitioning.
   
   + A foundational problem in mastering array manipulation and two-pointer techniques.
-
+    
+---
