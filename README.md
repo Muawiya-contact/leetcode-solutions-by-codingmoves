@@ -1,7 +1,16 @@
-# 🚀 LeetCode Solutions by Muawiya (@Coding_Moves)
+# 🚀 LeetCode Solutions by Muawiya [@Coding_Moves](https://youtube.com/@Coding_Moves)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Muawiya-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Moavia_Amir/)
+[![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)]()
+[![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)]()
+[![Hard](https://img.shields.io/badge/Difficulty-Hard-red?style=for-the-badge)]()
+
+---
 
 Welcome to my **LeetCode Solutions Repository**!  
-Here you'll find structured, high-quality solutions to problems from [LeetCode](https://leetcode.com/u/Moavia_Amir/), written primarily in Python (with more languages to come!). This repo is part of my journey to becoming a top-tier programmer and AI engineer 💪
+Here you'll find structured, high-quality solutions to problems from [LeetCode](https://leetcode.com/u/Moavia_Amir/), written primarily in Python 🐍.  
+This repo is part of my journey to becoming a top-tier programmer and AI engineer 💪
 
 ---
 
@@ -11,7 +20,7 @@ Here you'll find structured, high-quality solutions to problems from [LeetCode](
 - 🧠 Categorized by difficulty: Easy, Medium, Hard
 - 💬 Well-commented, clean, and beginner-friendly code
 - 📊 Consistent LeetCode practice focusing on DSA mastery
-- 📈 Real-world preparation with clarity, patterns, and learning mindset
+- 📈 Real-world preparation with clarity, patterns, and a growth mindset
 
 ---
 
@@ -29,58 +38,57 @@ LeetCode-Solutions/
 │   └── 10_Regular_Expression_Matching.py
 ├── README.md
 ```
-### Each file contains:
+## 📄 Each Solution File Includes:
 
-+ Problem link
+- ✅ **Problem link**
+- 📋 **Summary of the problem**
+- 🧠 **Brute-force and optimized approaches**
+- 💬 **Code with inline comments**
 
-+ Problem statement summary
+---
 
-+ Brute-force & optimized approaches
+## 🧠 My Strategy
 
-+ Code with inline comments
-
-# 🧠 My Strategy
 I aim to:
 
-+ ✅ Solve daily — not for streaks, but for mastery
-
-+ 🔄 Focus on patterns instead of just memorizing questions
-
-+ 📚 Break down problems visually and conceptually
-
-+ 🧑‍🏫 Document and share solutions to help others grow
-
-+ 🛠️ Build clean, scalable code practices
+- ✅ Solve daily — not just for streaks, but for **true mastery**
+- 🔁 Focus on patterns rather than memorizing questions
+- 🧩 Break down problems visually and conceptually
+- 🧑‍🏫 Share solutions to help others grow
+- 🛠️ Build clean, reusable, and scalable code
 
 > *“Write code that not only passes but also teaches.”*
 
+---
+
 ## 🗓️ Daily Progress Tracker
 
-### | Date       | Problems Solved | Difficulty |
-    |------------|------------------|------------ |
-    | 2025-04-23 | ✅ 1              | Easy      |
-    | 2025-04-24 | ✅ 1              | Medium    |
-    | 2025-04-25 | ✅ 1              | Medium    |
-    | 2025-04-26 | ✅ 1              | Hard      |
-    | 2025-04-27 | ✅ 1              | Eassy     |
-    | 2025-04-28 | ✅ 1              | Hard      |
-    | 2025-04-29 | ✅ 1              | Medium    |
+| Date       | Problems Solved | Difficulty |
+|------------|------------------|------------|
+| 2025-04-23 | ✅ 1              | Easy       |
+| 2025-04-24 | ✅ 1              | Medium     |
+| 2025-04-25 | ✅ 1              | Medium     |
+| 2025-04-26 | ✅ 1              | Hard       |
+| 2025-04-27 | ✅ 1              | Easy       |
+| 2025-04-28 | ✅ 1              | Hard       |
+| 2025-04-29 | ✅ 1              | Medium     |
 
+---
 
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/contactmuawia)
 - 📺 [YouTube - Coding Moves](https://youtube.com/@Coding_Moves)
 - 💻 [GitHub](https://github.com/Muawiya-contact)
-- 📊 **Kaggle:** [Moavia Amir](https://www.kaggle.com/Muawiya)
-- 📧 [Email Me](mailto:contactmuawia@gmail.com)
+- 📊 [Kaggle](https://www.kaggle.com/Muawiya)
+- 📧 [Email](mailto:contactmuawia@gmail.com)
 
 ---
 
 ## 💡 About Me
 
-I'm **Muawiya**, a passionate student of **Artificial Intelligence at NFC IET Multan**, and a lifelong learner of programming and mathematics.  
-I'm building this repo as part of my learning journey and sharing it to inspire others who follow in my footsteps.
+I'm **Muawiya**, a passionate student of **Artificial Intelligence at NFC IET Multan** and a lifelong learner of programming and mathematics.  
+This repository reflects my effort to **practice, document, and share** clean DSA solutions with the world 🌍.
 
 > *“Discipline, Code, Pray, Repeat — Success Follows.”*
 
@@ -88,17 +96,13 @@ I'm building this repo as part of my learning journey and sharing it to inspire 
 
 ## ⭐ Support & Contribute
 
-If you found this repository helpful:
+If this repo helps you:
 
-- ⭐ Star this repo  
-- 🧑‍🤝‍🧑 Share it with fellow learners  
-- 🤝 Pull Requests are welcome  
+- ⭐ Star it  
+- 👥 Share it with friends  
+- 🤝 Contributions and PRs are welcome  
 - 📢 Give a shoutout to [Coding Moves](https://youtube.com/@Coding_Moves)
 
-Thanks for visiting, and keep coding!  
-~ Muawiya | [@Coding_Moves](https://youtube.com/@Coding_Moves)
-
-
-
-
-  
+Thanks for visiting — **keep coding and growing!**  
+~ Muawiya 💻 | [@Coding_Moves](https://youtube.com/@Coding_Moves)
+---
