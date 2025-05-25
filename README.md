@@ -10,7 +10,8 @@
 
 Welcome to my **LeetCode Solutions Repository**!  
 Here you'll find structured, high-quality solutions to problems from [LeetCode](https://leetcode.com/u/Moavia_Amir/), written primarily in Python 🐍.  
-This repo is part of my journey to becoming a top-tier programmer and AI engineer 💪
+Each solution is crafted for clarity, efficiency, and learning — ideal for mastering data structures and algorithms.
+
 
 ---
 
@@ -87,8 +88,9 @@ I aim to:
 
 ## 💡 About Me
 
-I'm **Muawiya**, a passionate student of **Artificial Intelligence at NFC IET Multan** and a lifelong learner of programming and mathematics.  
-This repository reflects my effort to **practice, document, and share** clean DSA solutions with the world 🌍.
+I'm **Muawiya**, a dedicated student of **Artificial Intelligence at NFC IET Multan** and an enthusiastic learner of programming and mathematics.  
+This repository represents my commitment to consistently **practice, organize, and share** clean, well-explained DSA solutions to help both myself and others grow in the field 🌱.
+
 
 > *“Discipline, Code, Pray, Repeat — Success Follows.”*
 
