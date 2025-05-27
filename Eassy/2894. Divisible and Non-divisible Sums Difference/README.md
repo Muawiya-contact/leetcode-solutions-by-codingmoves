@@ -45,10 +45,10 @@ Finally, we return the difference `num1 - num2`.
 This is a straightforward `O(n)` time and `O(1)` space solution using running totals.
 
 ---
-## 🌟 GitHub Profile Best Practices
-✅ Add meaningful README files
-✅ Write clean and optimized code
-✅ Use example inputs/outputs
-✅ Add problem tags or links if public
-✅ Maintain consistent formatting
+## 🌟GitHub Profile Best Practices
+  ✅ Add meaningful README files
+  ✅ Write clean and optimized code
+  ✅ Use example inputs/outputs
+  ✅ Add problem tags or links if public
+  ✅ Maintain consistent formatting
 ---
