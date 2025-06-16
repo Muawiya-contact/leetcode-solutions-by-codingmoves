@@ -18,6 +18,7 @@ nums = [7,1,5,4]
 # Explanation:
 The maximum difference occurs with `i = 1` and `j = 2`, `nums[j] - nums[i] = 5 - 1 = 4`.
 Note that with `i = 1` and `j = 0`, the difference `nums[j] - nums[i] = 7 - 1 = 6`, but `i > j`, so it is not valid.
+
 ---
 ## Constraints:
 
