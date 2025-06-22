@@ -2,8 +2,8 @@
 ------
 + Easy
 + Topics
- - String
- - Simulation
+  - String
+  - Simulation
 ---
 ## Statement:
 A string `s` can be partitioned into groups of size `k` using the following procedure:
