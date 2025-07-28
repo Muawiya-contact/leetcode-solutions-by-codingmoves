@@ -1,0 +1,28 @@
+# 2044. Count Number of Maximum Bitwise-OR Subsets
+
+## 🧩 Problem Statement
+
+Given an integer array `nums`, you need to:
+1. **Find the maximum possible bitwise OR** of any subset of `nums`.
+2. **Return the number of non-empty subsets** that produce that maximum OR value.
+
+> A subset is defined by selecting elements (in order or not), and **two subsets are different if the chosen indices differ**, even if the values are the same.
+
+---
+
+## ✨ Examples
+
+### Example 1:
+```plaintext
+Input: nums = [3, 1]
+Output: 2
+Explanation: The max OR is 3.
+Subsets that give 3: [3], [3,1]
+```
+---
+# 🚀 Constraints
++ `1 <= nums.length <= 16`
+
++ `1 <= nums[i] <= 10⁵`
+
+  ----
