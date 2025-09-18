@@ -7,8 +7,7 @@ class TaskManager(object):
         :type tasks: List[List[int]]
         """
         self.task_map = {}  # taskId -> (priority, userId)
-        self.heap = []      # max-heap using (-priority, -taskId, userId, taskId)
-
+        self.heap = []      # entries: (-priority, -taskId, userId, taskId)
         for userId, taskId, priority in tasks:
             self.add(userId, taskId, priority)
 
@@ -28,6 +27,7 @@ class TaskManager(object):
         :type newPriority: int
         :rtype: None
         """
+        # taskId guaranteed to exist
         userId = self.task_map[taskId][1]
         self.task_map[taskId] = (newPriority, userId)
         heapq.heappush(self.heap, (-newPriority, -taskId, userId, taskId))
@@ -45,8 +45,14 @@ class TaskManager(object):
         :rtype: int
         """
         while self.heap:
-            priority, negTaskId, userId, taskId = heapq.heappop(self.heap)
-            if taskId in self.task_map and self.task_map[taskId][0] == -priority:
+            negPriority, negTaskId, heapUserId, taskId = heapq.heappop(self.heap)
+            # skip if task no longer exists
+            if taskId not in self.task_map:
+                continue
+            curPriority, curUserId = self.task_map[taskId]
+            # validate both priority and user match current record
+            if curPriority == -negPriority and curUserId == heapUserId:
                 del self.task_map[taskId]  # remove after execution
-                return userId
+                return curUserId
+            # else stale entry, continue popping
         return -1
