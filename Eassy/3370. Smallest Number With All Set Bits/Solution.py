@@ -4,5 +4,5 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-       
-        return int( ((len(bin(n)[2:]))*"1"), 2)
+       x = int( ((len(bin(n)[2:]))*"1"), 2)
+        return x
