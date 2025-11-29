@@ -62,20 +62,6 @@ I aim to:
 
 ---
 
-## 🗓️ Daily Progress Tracker
-
-| Date       | Problems Solved | Difficulty |
-|------------|------------------|------------|
-| 2025-04-23 | ✅ 1              | Easy       |
-| 2025-04-24 | ✅ 1              | Medium     |
-| 2025-04-25 | ✅ 1              | Medium     |
-| 2025-04-26 | ✅ 1              | Hard       |
-| 2025-04-27 | ✅ 1              | Easy       |
-| 2025-04-28 | ✅ 1              | Hard       |
-| 2025-04-29 | ✅ 1              | Medium     |
-
----
-
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/contactmuawia)
