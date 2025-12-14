@@ -45,7 +45,6 @@ LeetCode-Solutions/
 - 📋 **Summary of the problem**
 - 🧠 **Brute-force and optimized approaches**
 - 💬 **Code with inline comments**
-
 ---
 
 ## 🧠 My Strategy
