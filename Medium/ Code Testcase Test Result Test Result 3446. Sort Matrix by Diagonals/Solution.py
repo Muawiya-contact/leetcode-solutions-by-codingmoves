@@ -1,7 +1,6 @@
 class Solution:
     def sortMatrix(self, grid):
         n = len(grid)
-
         # Bottom-left diagonals (including main diagonal) → descending
         for start_row in range(n - 1, -1, -1):
             diagonal = []
