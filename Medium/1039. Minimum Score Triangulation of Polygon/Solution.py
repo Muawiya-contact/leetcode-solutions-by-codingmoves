@@ -2,6 +2,7 @@ class Solution:
     def __init__(self):
         self.dp = [[0] * 50 for _ in range(50)]
         
+
     def minScoreTriangulation(self, values, i=0, j=0, res=0):
         if j == 0:
             j = len(values) - 1
