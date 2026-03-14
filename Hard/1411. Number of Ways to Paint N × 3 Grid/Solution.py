@@ -1,5 +1,5 @@
 class Solution:
-    def numOfWays(self, n: int) -> int:
+    def numOfWays(self, n):
         MOD = 1000000007
         x, y = 6, 6
         
