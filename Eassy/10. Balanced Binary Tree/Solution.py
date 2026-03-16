@@ -4,7 +4,6 @@ class Solution:
         def dfs(node):
             if not node:
                 return 0
-            
             left = dfs(node.left)
             if left == -1: return -1
             
