@@ -1,6 +1,6 @@
 #py3
 class Solution:
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+    def isBalanced(self, root):
         def dfs(node):
             if not node:
                 return 0
