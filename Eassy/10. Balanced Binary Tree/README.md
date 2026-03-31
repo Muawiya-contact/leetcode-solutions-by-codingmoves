@@ -3,7 +3,6 @@
 Given a binary tree, determine if it is height-balanced.
 
  
-
 ## Example 1:
 
 
