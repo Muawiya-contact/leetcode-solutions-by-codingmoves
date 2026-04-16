@@ -72,12 +72,11 @@ I aim to:
 ---
 
 ## 💡 About Me
-
-I'm **Muawiya**, a dedicated student of **Artificial Intelligence at NFC IET Multan** and an enthusiastic learner of programming and mathematics.  
-This repository represents my commitment to consistently **practice, organize, and share** clean, well-explained DSA solutions to help both myself and others grow in the field 🌱.
-
-
-> *“Discipline, Code, Pray, Repeat — Success Follows.”*
+I'm **Muawiya**, a dedicated student of **Artificial Intelligence at NFC IET Multan** and **Mathematics at Virtual University of Pakistan** — balancing two degrees with discipline and passion.
+ 
+An enthusiastic learner of programming, mathematics, and emerging technologies, this repository represents my commitment to consistently **practice, organize, and share** clean, well-explained DSA solutions to help both myself and others grow in the field 🌱.
+ 
+> *"Discipline, Code, Pray, Repeat — Success Follows."*
 
 ---
 
