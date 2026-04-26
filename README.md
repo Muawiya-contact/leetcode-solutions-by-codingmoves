@@ -22,7 +22,6 @@ Each solution is crafted for clarity, efficiency, and learning — ideal for mas
 - 💬 Well-commented, clean, and beginner-friendly code
 - 📊 Consistent LeetCode practice focusing on DSA mastery
 - 📈 Real-world preparation with clarity, patterns, and a growth mindset
-
 ---
 
 ## 📂 Folder Structure
